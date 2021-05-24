@@ -1,4 +1,4 @@
-import pygame ,sys,time
+import pygame ,sys
 from pygame import mixer
 from pygame.locals import *
 pygame.init()
@@ -6,7 +6,6 @@ width,height=300,300
 FPS=60
 white=(255,255,255)
 blue=(0,0,255)
-tblue=(0,0,0,255)
 black=(0,0,0)
 red=(255,0,0)
 green=(0,255,0)
